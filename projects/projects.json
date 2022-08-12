@@ -1,15 +1,5 @@
 [
   {
-    "name": "Joyage",
-    "desc": "Joyage is a travel planning web app to build itineraries ",
-    "image": "Joyage",
-    "category": "react",
-    "links": {
-      "view": "https://www.youtube.com/watch?v=rWiqvwGMQfs",
-      "code": "https://github.com/GH-Avocado/Joyage"
-    }
-  },
-  {
     "name": "Grace Cosmetics",
     "desc": "A Fullstack E-commerce store built by an agile team of four.",
     "image": "homepage",
@@ -37,6 +27,16 @@
     "links": {
       "view": "",
       "code": "https://github.com/daibo2022/PROJECT-MGMT-APP"
+    }
+  },
+  {
+    "name": "Joyage",
+    "desc": "Joyage is a travel planning web app to build itineraries ",
+    "image": "Joyage",
+    "category": "react",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=rWiqvwGMQfs",
+      "code": "https://github.com/GH-Avocado/Joyage"
     }
   }
 ]
