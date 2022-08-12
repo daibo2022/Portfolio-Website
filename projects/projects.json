@@ -28,5 +28,15 @@
       "view": "https://incredible-brioche-c4edf5.netlify.app/",
       "code": "https://github.com/daibo2022/React-Weather-app"
     }
+  },
+  {
+    "name": "Project Management Platform",
+    "desc": "This is a full stack project where user can do CRUD functions to manage projects and clients",
+    "image": "home",
+    "category": "react",
+    "links": {
+      "view": "",
+      "code": "https://github.com/daibo2022/PROJECT-MGMT-APP"
+    }
   }
 ]
